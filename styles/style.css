@@ -450,4 +450,10 @@ form .submit:hover {
         width: 300px;
     }
 
+    .subheading {
+        border-bottom-style: solid;
+        width: 100px;
+        margin-top: 30px;
+    }
+
 }
