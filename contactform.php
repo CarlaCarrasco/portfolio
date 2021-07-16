@@ -18,7 +18,7 @@
 
 <div class = "main-container" style="display: flex;justify-content: center;align-items: center;border: 3px solid #000;margin-top: 8rem;width: 35rem;margin: 8rem auto;flex-wrap: wrap;padding: 20px;background: #c800c5;color: white;font-family: 'Courier New', Courier, monospace;">
     <div>
-        <h1>Thanks for being awesome!</h1>
+        <h1>Thank you!</h1>
         <h3>I received your message and will respond as soon as possible.</h3>
         <h3>Have a great day!</h3>
         <h3>- Carla</h3>
