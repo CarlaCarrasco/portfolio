@@ -441,4 +441,13 @@ form .submit:hover {
     }
 }
 
+@media screen and (max-width: 414px) {
+    .sections{
+        width: 90%;
+    }
 
+    .form-control, textarea.form-control {
+        width: 300px;
+    }
+
+}
