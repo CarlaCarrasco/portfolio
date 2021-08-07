@@ -122,6 +122,10 @@ a.nav-item-link:active {
     color: red;
 
 }
+
+.p-intro {
+    margin-top: 20px;
+}
    
 section {
     padding: 1rem;
